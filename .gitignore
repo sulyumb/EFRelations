@@ -1,4 +1,5 @@
-
+*.mdf
+*.log
 eSharper*
 bin
 obj
